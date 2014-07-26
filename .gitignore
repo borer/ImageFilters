@@ -1,0 +1,19 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Directories #
+bin/
+
+# Mac
+.DS_Store
+
+*.class
+
+# Maven
+log/
+target/
+
+#Huge Images for Testing
+imageTests/
